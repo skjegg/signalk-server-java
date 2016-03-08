@@ -5,7 +5,7 @@
 #SIGNALK_HOME=/home/pi/freeboard
 SIGNALK_HOME=`pwd`
 
-JAR=signalk-server-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+JAR=*-dependencies.jar
 #
 cd $SIGNALK_HOME
 mkdir logs
