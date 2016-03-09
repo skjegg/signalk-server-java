@@ -4,7 +4,7 @@
          "authenticationEnabled": false,
          "context": "/hawtio",
          "port": 8000.0,
-         "start": false,
+         "start": true,
          "war": "./hawtio/hawtio-default-offline-1.4.48.war"
       },
       "server": {
